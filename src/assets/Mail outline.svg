@@ -1,0 +1,13 @@
+<svg width="87" height="93" viewBox="0 0 87 93" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mail outline" filter="url(#filter0_b_63_187)">
+<path id="Vector" d="M72.5556 15.8333H14.7778C10.8055 15.8333 7.59166 19.2833 7.59166 23.5L7.55555 69.5C7.55555 73.7167 10.8055 77.1667 14.7778 77.1667H72.5556C76.5278 77.1667 79.7778 73.7167 79.7778 69.5V23.5C79.7778 19.2833 76.5278 15.8333 72.5556 15.8333ZM72.5556 69.5H14.7778V31.1667L43.6667 50.3333L72.5556 31.1667V69.5ZM43.6667 42.6667L14.7778 23.5H72.5556L43.6667 42.6667Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_b_63_187" x="-99.6667" y="-99.5" width="286.667" height="292" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="50"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_63_187"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_63_187" result="shape"/>
+</filter>
+</defs>
+</svg>
