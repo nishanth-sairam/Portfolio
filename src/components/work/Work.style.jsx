@@ -1,7 +1,7 @@
 import styled, { keyframes } from 'styled-components';
 
 export const TimelineWrapper = styled.div`
-    width: 800px;
+    width: 1000px;
     height: 15rem;
     padding: 137px 50px;
     flex-direction: column;

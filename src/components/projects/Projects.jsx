@@ -3,6 +3,8 @@ import { Card, CardMedia, ProjectContainer, CardContentContainer, ButtonContaine
 import ImageOne from '../../assets/ImageOne.jpg';
 import cloudLink from '../../assets/cloudLink.png';
 import webPre1 from '../../assets/webPre1.png';
+import webPre2 from '../../assets/webPre2.png';
+import webPre3 from '../../assets/webPre3.png';
 import git from '../../assets/git.png';
 import { TextContainer } from '../work/Work.style';
 
@@ -15,22 +17,16 @@ const Projects = (props) => {
             gitLink: '',
         },
         {
-            img: ImageOne,
-            title: 'Tempor sit cillum cupidatat enim incididunt .',
-            webLink: 'https://crwnappvite.netlify.app',
-            gitLink: '',
+            img: webPre2,
+            title: 'Bootstrap Web Site',
+            webLink: 'https://nishanth-sairam.github.io/BootStrap-webSite',
+            gitLink: 'https://github.com/nishanth-sairam/BootStrap-webSite',
         },
         {
-            img: ImageOne,
-            title: 'Exercitation pariatur sit ex dolore labore consectetur commodo amet ipsum laboris.',
-            webLink: 'https://crwnappvite.netlify.app',
-            gitLink: '',
-        },
-        {
-            img: ImageOne,
-            title: 'Dolore dolore exercitation minim magna voluptate et officia.',
-            webLink: 'https://crwnappvite.netlify.app',
-            gitLink: '',
+            img: webPre3,
+            title: 'React Editable Table',
+            webLink: 'https://nishanth-sairam.github.io/counter-app',
+            gitLink: 'https://github.com/nishanth-sairam/counter-app',
         },
     ];
     return (
